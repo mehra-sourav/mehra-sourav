@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Sourav Mehra working as a full stack developer working with VueJS and Flask. 
-- 👀 I'm interested in moving to a frontend role
+- 👋 Hi, I'm Sourav Mehra working as a full stack developer working with JavaScript and its frameworks and libraries like ReactJS, VueJS, etc., NodeJS, Express, Python, Flask, etc.
 - 📫 Find me on linkedin at https://in.linkedin.com/in/sourav-mehra
 
 <!---
